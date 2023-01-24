@@ -1,1 +1,1 @@
-# -Bot-Discord-PickBanMap-CSGO
+# Bot-Discord-PickBanMap-CSGO
